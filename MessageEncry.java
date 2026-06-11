@@ -128,7 +128,6 @@ public class MessageEncryApp extends JFrame {
                 output.append(ch);
             }
         }
-
         encryptedTextArea.setText(output.toString());
     }
 
